@@ -5,11 +5,13 @@
  ----------
  STUDENT : Hüseyin Baris Ertas
  SECTION :  164-2
- HOMEWORK: 2. HOMEWORK
+ HOMEWORK: FIRSTT HOMEWORK
  ----------
  PROBLEMS:
  ----------
  ADDITIONAL FEATURES:
+ When space is clicked rockets get faster and slower.
+ All rockets are connected to one point.
  *********/
 
 /*#ifdef __APPLE__
