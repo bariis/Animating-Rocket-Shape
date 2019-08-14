@@ -1,6 +1,8 @@
 # Animating Shape Rocket
 My CTIS-164 (Technical Mathematic) first homework written in C/C++ using openGL and GLUT libraries.
 
+Aim was to just coding meaningful shapes and make them move.
+
 I coded this project on Xcode. So, to implement the libraries both openGL and GLUT, do the following -> Build Phases -> Link Binary with Libraries. then type the name of the libraries and add both.
 
 
