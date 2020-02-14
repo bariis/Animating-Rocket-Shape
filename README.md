@@ -1,5 +1,5 @@
 # Animating Shape Rocket
-My CTIS-164 (Technical Mathematic) first homework written in C/C++ using openGL and GLUT libraries.
+My CTIS-164 (Technical Mathematic) homework written in C/C++ using openGL and GLUT libraries.
 
 Aim was to just coding meaningful shapes and make them move.
 
